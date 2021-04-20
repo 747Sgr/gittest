@@ -24,7 +24,7 @@ public class Test {
         System.out.println(encodedText);
 //解码
         System.out.println(new String(decoder.decode(encodedText), "UTF-8"));
-
+//        这是一个测试
 
 
     }
